@@ -3,7 +3,7 @@
 <div align="center">
   <h2>🌙 "Shoot for the moon. Even if you miss, you'll land among the stars." ⭐</h2>
   <h3>– Norman Vincent Peale</h3>
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250">
+  <img src="https://i.gifer.com/embedded/download/7VE.gif" width="400" alt="Lofi GIF">
 </div>  
 
 ### 🐱 About Me  
@@ -13,10 +13,7 @@
  
 ### ✨ Fun Facts  
 🐶 I love animals and cute things!  
-📖 Always learning something new – let’s build cool things together!  
-
-### 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
+📖 Always learning something new – let’s build cool things together!   
 
 ### 🌸 Let’s Connect!  
 💌 [hibaelouerkhaoui@gmail.com] | 💼 [Your LinkedIn]  
