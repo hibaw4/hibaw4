@@ -1,5 +1,11 @@
 # 🌸 Hey there! 🌸  
 
+<div align="center">
+  <h2>🌙 "Shoot for the moon. Even if you miss, you'll land among the stars." ⭐</h2>
+  <h3>– Norman Vincent Peale</h3>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250">
+</div>  
+
 ### 🐱 About Me  
 🌼 My name is Hiba El Ouerkhaoui, I'm a **software engineering student** who loves **coding, learning, and creating cool projects**!  
 💡 Passionate about **technology, space, and all things geeky** 🚀✨  
@@ -13,8 +19,6 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
 
 ### 🌸 Let’s Connect!  
-💌 [hibaelouerkhaoui@gmail.com] | 💼 [Your LinkedIn]
-
-🌙 **"Shoot for the moon. Even if you miss, you'll land among the stars."** – Norman Vincent Peale ⭐  
+💌 [hibaelouerkhaoui@gmail.com] | 💼 [Your LinkedIn]  
 
 💖 Thanks for stopping by! Happy coding! ✨😊  
