@@ -1,9 +1,4 @@
-# 🌸 Hey there! 🌸  
-
-<div align="center">
-  <h2>🌙 "Shoot for the moon. Even if you miss, you'll land among the stars." ⭐</h2>
-  <h3>– Norman Vincent Peale</h3>
-</div>  
+# 🌸 Hi! 
 
 ### 🐱 About Me  
 🌼 My name is Hiba El Ouerkhaoui, I'm a **software engineering student** who loves **coding, learning, and creating cool projects**!  
