@@ -1,8 +1,6 @@
 # 🌸 Hi! 
  
-🐱 I'm a **Software Engineering Student** who loves **coding, learning, and creating cool projects**!  
-
-🌼 Passionate about **technology and all things geeky** 🚀✨
+🐱 I'm a **Software Engineering Student** who loves **coding, learning, and creating cool projects**!
 
 💡 I'm currently working on Software Development and Information Systems
 
