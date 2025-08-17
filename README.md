@@ -33,6 +33,7 @@
   <!-- Gmail -->
   <a href="mailto:hibaelouerkhaoui1@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/64px-Gmail_icon_%282020%29.svg.png" alt="Email: hibaelouerkhaoui1@gmail.com" height="26" width="34" />
+    <p align="center">hibaelouerkhaoui@gmail.com</p>
   </a>
 </p>
 
