@@ -1,5 +1,5 @@
 <!-- <h1 >Hello, welcome to my profile!</h1> -->
-<h3 align="center">Software Engineering Student @ENSIAS | Interested in Fullstack Development, Cloud and DevOps</h3>
+<h3 align="center">Junior SWE | Interested in Fullstack Development, Cloud and DevOps</h3>
 <br>
 <!-- Profile Views -->
 <!-- <p align="center">
@@ -10,7 +10,7 @@
 <!-- About Me -->
 <!-- <h2>About Me</h2> -->
 <p align="left">
-  • I’m a passionate Software Engineering student, constantly exploring <b>Software Development, Cloud, and DevOps technologies</b>.<br>
+  • I’m a junior software engineer, constantly exploring <b>Software Development, Cloud, and DevOps technologies</b>.<br>
   • I love building innovative applications and experimenting with AI/ML projects.<br>
   • Always eager to learn new tools, adopt best practices, and deepen my skills in software engineering.
 </p>
