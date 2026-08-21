@@ -18,12 +18,12 @@
 
 <!-- GitHub Stats -->
 <!-- <h2 align="center">GitHub Stats</h2> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hibaw4&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="35%" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=hibaw4&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="45%" />
   <img src="https://github-profile-trophy.vercel.app/?username=hibaw4&theme=darkhub&margin-w=10&margin-h=10"/>
-</p>
+</p> -->
 
 
 
@@ -47,8 +47,6 @@
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
